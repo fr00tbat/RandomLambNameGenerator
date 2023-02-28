@@ -6,5 +6,20 @@
     border: none;
 }
 
+body {
+    font-family: Rajdhani, sans-serif;
+    font-weight: 300;
+    color: #000;
+}
+
+/*headings and logo*/
+
+h1, h2 {
+    font-family: Gajraj, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000;
+}
+
 
 
